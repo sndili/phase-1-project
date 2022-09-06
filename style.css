@@ -127,4 +127,38 @@ body{
   }
   .randomActive{
     color: black;
-  }  
+  }
+  .rotate{
+    animation: rotation 8s infinite linear;
+  }
+  @keyframes rotation{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(359deg);
+    }
+  }
+  .loader{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .loader .stroke{
+    background: #f1f1f1;
+    height: 100%;
+    width: 10px;
+    border-radius: 50px;
+    margin: 0px 5px;
+    animation: animate 1.4s linear infinite;
+  }
+  @keyframes animate{
+    50%{
+        height: 20%;
+        background: black;
+    }
+    100%{
+        height: 100%;
+    }
+  }    
