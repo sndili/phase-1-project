@@ -4,7 +4,7 @@
 
 This Simple Music Player is a single page application that plays your favorite music on your browser. It allows users to pause, play, go to the next song, back to the previous song, repeat the current song and also shuffle between random songs.
 
-Technologies used in this program are HTML, CSS, JavaSCript, HTML5 audio and web audio API.
+Technologies used in this program are HTML, CSS, JavaSCript, HTML5 audio and Web Audio API.
 
 **Live link to the site on Github Pages**
 
