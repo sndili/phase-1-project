@@ -8,7 +8,11 @@ Technologies used in this program are HTML, CSS, JavaSCript, HTML5 audio and web
 
 **Live link to the site on Github Pages**
 
+
+
+
 **Installation**
+
 In order for the app to run, you first need this requirements
 
 Ensure that git is installed in your preferred Operating system.
@@ -16,4 +20,5 @@ Ensure that git is installed in your preferred Operating system.
 Proceed to clone the repository to your local machine and run the index.html file in your browser.
 
 **Additional Information**
+
 This project contains MIT license but it is free to use. Feel free to reach out for any contributions and criticisms are welcome as we keep learning.
