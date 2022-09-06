@@ -8,7 +8,7 @@ Technologies used in this program are HTML, CSS, JavaSCript, HTML5 audio and Web
 
 **Live link to the site on Github Pages**
 
-
+https://sndili.github.io/phase-1-project/
 
 
 **Installation**
