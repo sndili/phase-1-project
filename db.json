@@ -1,0 +1,62 @@
+[
+    {
+      "artist": "Harry Styles",
+      "name": "Watermelon Sugar",
+      "src": "Watermelon_Sugar.mp3",
+      "img": "Watermelon-sugar.jpg"
+    },
+    {
+      "artist": "Hozier",
+      "name": "Take Me To Church",
+      "src": "Take_Me_To_Church.mp3",
+      "img": "Take-me-to-church.jpg"
+    },
+    {
+      "artist": "Alec Benjamin",
+      "name": "Devil Doesn't Bargain",
+      "src": "Devil_Doesn't_Bargain.mp3",
+      "img": "Devil-Doesn't-Bargain.jpg"
+    },
+    {
+      "artist": "Troye Sivan",
+      "name": "Angel Baby",
+      "src": "Angel_Baby.mp3",
+      "img": "Angel-Baby.jpg"
+    },
+    {
+      "artist": "Elley Duhe",
+      "name": "Middle of the Night",
+      "src": "Middle_of_the_Night.mp3",
+      "img": "Middle-of-the-Night.jpg"
+    },
+    {
+      "artist": "SAINT JHN",
+      "name": "The best part of life",
+      "src": "THE_BEST_PART_OF_LIFE.mp3",
+      "img": "The-best-part-of-life.jpg"
+    },
+    {
+      "artist": "Forrest Frank",
+      "name": "Slow Down",
+      "src": "slow_down.mp3",
+      "img": "Slow-Down.jpg"
+    },
+    {
+      "artist": "RUTH B",
+      "name": "Dandelions",
+      "src": "Dandelions.mp3",
+      "img": "Dandelions.jpg"
+    },
+    {
+      "artist": "Chris Brown",
+      "name": "Under the influence",
+      "src": "Under_The_Influence.mp3",
+      "img": "Under-the-influence.jpg"
+    },
+    {
+      "artist": "JP Cooper",
+      "name": "In these arms",
+      "src": "In_These_Arms.mp3",
+      "img": "In-these-arms.jpg"
+    }
+]
