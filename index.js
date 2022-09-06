@@ -84,3 +84,25 @@ const music_list = [
 ];
 
 loadTrack(track_index);
+
+function loadTrack(track_index){
+    clearInterval(updateTimer);
+    reset();
+
+    curr_track.src = music_list[track_index].music;
+    curr_track.load();
+
+    track_art.style.backgroundImage = "url(" + music_list[track_index].img + ")";
+    track_name.textContent = music_list[track_index].name;
+    track_artist.textContent = music_list[track_index].artist;
+
+    updateTimer = setInterval(setUpdate, 1000);
+
+    curr_track.addEventListener('ended', nextTrack);
+}
+
+function reset(){
+    curr_time.textContent = "00:00";
+    total_duration.textContent = "00:00";
+    seek_slider.value = 0;
+}
